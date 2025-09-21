@@ -2,7 +2,7 @@
 
 ### Hello, my name is Valério Cardoso :man_technologist:
 
-I am a Staff AI Engineer at Hvar Consulting, where I have been working with LLMOps and AgentOps technologies. My passion for cloud computing and AI began over 10 years ago, and I've since designed and implemented multiple cloud-native AI architectures for various industries.
+I am a Staff Machine Learning Engineer at SecurityScoreCard, where I have been working with LLMOps and AgentOps technologies. My passion for cloud computing and AI began over 10 years ago, and I've since designed and implemented multiple cloud-native AI architectures for various industries.
 
 ## 🔗 Connect with me 
 <a href="https://www.linkedin.com/in/valeriocardoso" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
